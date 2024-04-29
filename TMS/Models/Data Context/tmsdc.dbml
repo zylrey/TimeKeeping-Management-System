@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="tmsdb" Class="tmsdcDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ZYL\ZYLSERVER;Initial Catalog=tmsdb;Integrated Security=True" SettingsObjectName="TMS.My.MySettings" SettingsPropertyName="tmsdbConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.t_course" Member="t_courses">
+    <Type Name="t_course">
+      <Column Name="c_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="datecreated" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.t_scan" Member="t_scans">
+    <Type Name="t_scan">
+      <Column Name="t_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="s_uid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="fullname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="attenddate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="intime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="instatus" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="outtime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="outstatus" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="totalHours" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.t_section" Member="t_sections">
+    <Type Name="t_section">
+      <Column Name="sec_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="datecreated" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.t_students" Member="t_students">
+    <Type Name="t_student">
+      <Column Name="s_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="s_uid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="firstname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="middlename" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="lastname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="course" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="section" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="datecreated" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.t_user" Member="t_users">
+    <Type Name="t_user">
+      <Column Name="u_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="username" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ulevel" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="active" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datecreated" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

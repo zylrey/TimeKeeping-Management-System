@@ -1,0 +1,90 @@
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\bin\Debug\TMS.exe.config
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\bin\Debug\TMS.exe
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\bin\Debug\TMS.pdb
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\bin\Debug\TMS.xml
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\obj\Debug\TMS.Resources.resources
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\obj\Debug\TMS.vbproj.GenerateResource.Cache
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\obj\Debug\TMS.exe
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\obj\Debug\TMS.xml
+c:\users\mis\documents\visual studio 2013\Projects\TMS\TMS\obj\Debug\TMS.pdb
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.Resources.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmDashboard.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmLogin.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmUser.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.ucBase.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.vbproj.GenerateResource.Cache
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.exe.licenses
+C:\Users\OJT\Documents\tms\TMS\bin\Debug\TMS.exe.config
+C:\Users\OJT\Documents\tms\TMS\bin\Debug\TMS.exe
+C:\Users\OJT\Documents\tms\TMS\bin\Debug\TMS.pdb
+C:\Users\OJT\Documents\tms\TMS\bin\Debug\TMS.xml
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.exe
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.xml
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.pdb
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.WaitForm1.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.ucDashboard.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.ucUser.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmScan.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmLoad.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmStudent.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.ucStudents.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmCourse.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.ucCourse.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmSection.resources
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.vbprojResolveAssemblyReference.cache
+C:\Users\OJT\Documents\tms\TMS\obj\Debug\TMS.frmQRCodeViewer.resources
+H:\TMS\TMS\bin\Debug\TMS.exe.config
+H:\TMS\TMS\obj\Debug\TMS.xml
+H:\TMS\TMS\obj\Debug\TMS.pdb
+H:\TMS\TMS\bin\Debug\TMS.exe
+H:\TMS\TMS\bin\Debug\TMS.pdb
+H:\TMS\TMS\bin\Debug\TMS.xml
+H:\TMS\TMS\obj\Debug\TMS.frmCourse.resources
+H:\TMS\TMS\obj\Debug\TMS.frmLoad.resources
+H:\TMS\TMS\obj\Debug\TMS.frmQRCodeViewer.resources
+H:\TMS\TMS\obj\Debug\TMS.frmScan.resources
+H:\TMS\TMS\obj\Debug\TMS.frmSection.resources
+H:\TMS\TMS\obj\Debug\TMS.frmStudent.resources
+H:\TMS\TMS\obj\Debug\TMS.ucCourse.resources
+H:\TMS\TMS\obj\Debug\TMS.ucDashboard.resources
+H:\TMS\TMS\obj\Debug\TMS.ucStudents.resources
+H:\TMS\TMS\obj\Debug\TMS.ucUser.resources
+H:\TMS\TMS\obj\Debug\TMS.WaitForm1.resources
+H:\TMS\TMS\obj\Debug\TMS.Resources.resources
+H:\TMS\TMS\obj\Debug\TMS.frmDashboard.resources
+H:\TMS\TMS\obj\Debug\TMS.frmLogin.resources
+H:\TMS\TMS\obj\Debug\TMS.frmUser.resources
+H:\TMS\TMS\obj\Debug\TMS.ucBase.resources
+H:\TMS\TMS\obj\Debug\TMS.vbproj.GenerateResource.Cache
+H:\TMS\TMS\obj\Debug\TMS.exe.licenses
+H:\TMS\TMS\obj\Debug\TMS.exe
+C:\TMS\TMS\bin\Debug\TMS.exe.config
+C:\TMS\TMS\obj\Debug\TMS.xml
+C:\TMS\TMS\obj\Debug\TMS.pdb
+C:\TMS\TMS\bin\Debug\TMS.exe
+C:\TMS\TMS\bin\Debug\TMS.pdb
+C:\TMS\TMS\bin\Debug\TMS.xml
+C:\TMS\TMS\obj\Debug\TMS.frmCourse.resources
+C:\TMS\TMS\obj\Debug\TMS.frmLoad.resources
+C:\TMS\TMS\obj\Debug\TMS.frmQRCodeViewer.resources
+C:\TMS\TMS\obj\Debug\TMS.frmScan.resources
+C:\TMS\TMS\obj\Debug\TMS.frmSection.resources
+C:\TMS\TMS\obj\Debug\TMS.frmStudent.resources
+C:\TMS\TMS\obj\Debug\TMS.ucCourse.resources
+C:\TMS\TMS\obj\Debug\TMS.ucDashboard.resources
+C:\TMS\TMS\obj\Debug\TMS.ucStudents.resources
+C:\TMS\TMS\obj\Debug\TMS.ucUser.resources
+C:\TMS\TMS\obj\Debug\TMS.WaitForm1.resources
+C:\TMS\TMS\obj\Debug\TMS.Resources.resources
+C:\TMS\TMS\obj\Debug\TMS.frmDashboard.resources
+C:\TMS\TMS\obj\Debug\TMS.frmLogin.resources
+C:\TMS\TMS\obj\Debug\TMS.frmUser.resources
+C:\TMS\TMS\obj\Debug\TMS.ucBase.resources
+C:\TMS\TMS\obj\Debug\TMS.vbproj.GenerateResource.Cache
+C:\TMS\TMS\obj\Debug\TMS.exe.licenses
+C:\TMS\TMS\obj\Debug\TMS.exe
+H:\TMS\TMS\bin\Debug\TMS.exe.manifest
+H:\TMS\TMS\bin\Debug\TMS.application
+H:\TMS\TMS\obj\Debug\TMS.TrustInfo.xml
+H:\TMS\TMS\obj\Debug\TMS.exe.manifest
+H:\TMS\TMS\obj\Debug\TMS.application

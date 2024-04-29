@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="tmsdc">
+  <DataContextMoniker Name="/tmsdcDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7bdd8551-2d22-4019-8aa8-4330c8bc612e" absoluteBounds="0.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/tmsdcDataContext/t_course" />
+      <nestedChildShapes>
+        <elementListCompartment Id="50307244-bcfb-4900-9bf3-f7f4b3d98a1e" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7b7890f2-b6f5-4474-968f-b58a58fba8ad" absoluteBounds="3.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/tmsdcDataContext/t_scan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ca451bf1-e023-4055-a478-ece942646ba4" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e9fcc143-bc29-4696-aa9b-79baa3b6c461" absoluteBounds="0.75, 4.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/tmsdcDataContext/t_section" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a15e5993-12f5-444b-acbd-25cf29dd787f" absoluteBounds="0.765, 5.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3dac179-cf7e-44bc-a486-e1acaee2373b" absoluteBounds="3.75, 4.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/tmsdcDataContext/t_student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f99304b-3b7f-45dd-be9b-8957a1a65982" absoluteBounds="3.765, 5.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c764fb1b-5f35-44b0-9766-3d0d7b54f840" absoluteBounds="6.75, 0.75, 2, 1.9631982421875003">
+      <DataClassMoniker Name="/tmsdcDataContext/t_user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f0c4a458-4af4-4fa1-b974-9f395214f32d" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
